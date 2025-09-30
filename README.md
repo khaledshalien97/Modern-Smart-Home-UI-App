@@ -8,7 +8,11 @@ A new Flutter project.
 
 ## Screenshots
 
-![Home Screen](assets/images/smart_home_1.png)
+<p float="left">
+  <img src="assets/images/smart_home_1.png" width="200" />
+  <img src="assets/images/smart_home_4.png" width="200" />
+   <img src="assets/images/smart_home_6.png" width="200" />
+</p>
 
 
 
